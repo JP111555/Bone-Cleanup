@@ -9,9 +9,3 @@ Once you've done that, go under the armature_name variable and put the name of t
 
 If you've followed these steps, then you should be ready. Just click the play button near the folder icon to run the script.
 
-
-## Have any questions or suggestions? 
-Ping me on the Horizon Modding server, or DM me. 
-
-Account: jp.6
-Server join link: [https://discord.gg/24rVkPvJxc]
